@@ -1,4 +1,4 @@
-# Team Expedition
+# Team Expedition - TORTEE Hackathon
 
 ## About Project
 
